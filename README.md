@@ -1,4 +1,8 @@
-# aws-infra-core
+## 📁 Repository Architecture
+
+This repository contains the core Infrastructure-as-Code (IaC), configuration management playbooks, and cluster initialization setups required to provision and manage the production-grade AWS environment.
+
+```text
 aws-infra-core/
 ├── .github/
 │   └── workflows/                # Automatic syntax linting for TF & Ansible on Pull Requests
